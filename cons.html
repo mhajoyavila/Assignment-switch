@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <button onclick="runActivity()">Run</button>
+    <script>
+    // function Driver (name, age,workExperience) {
+    //     this.name = name;
+    //     this.age = age;
+    //     this.workExperince = eworkExperince;
+    //     this.driveMyCar = function() {
+    //         alert ("Turn forward");
+    //         alert ("Stop");
+    //         alert ("Turn Right");
+    // };
+    // }
+    // const driver1 = new Driver('Toto', 25, 5)
+    // const driver2 = new Driver('Tata', 35, 10)
+    // driver1.driveMyCar()
+    // driver2.driveMyCar()
+
+    function Driver (name, age, workExperience) {
+ this.name = name;
+ this.age = age;
+ this.workExperience= workExperience;
+ this.driveMyCar = function() {
+ alert("Turn forward");
+ alert("Stop");
+alert("Turn right");
+ };
+}
+const toto = new Driver("Toto", 50, true);
+toto.driveMyCar();
+    </script>
+</body>
+</html>

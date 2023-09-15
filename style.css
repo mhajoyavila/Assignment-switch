@@ -1,0 +1,64 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+   h1 {
+    font-size: 50px;
+    color: #726c6e;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 3px 0 #614004;
+   }
+   footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+   }
+   .fahb{
+    width: 80px;
+   }
+   .hugh{
+    width: 60px;
+   }
+   .ian{
+    width: 90px;
+   }
+   .ben{
+    width: 90px;
+   }
+   .pete{
+    width: 90px;
+   }
+   .mark{
+    width: 95px;
+
+   }
+   .daiben{
+    width: 80px;
+   }
+   .sam{
+    width: 80px;
+
+   }
+   .set{
+    background-image: url(images/background.png);
+    background-repeat:no-repeat ;
+    display: flex;
+    max-width: 800px;
+    margin-inline: auto;
+   }
+   .machina{
+    background: transparent;
+    height: 350px;
+    max-width: 800px;
+    border: none;
+    color: transparent;
+    cursor: pointer;
+   }
+   p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: #4a3a3f;
+   }
