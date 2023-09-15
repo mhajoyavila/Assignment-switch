@@ -32,6 +32,7 @@ for (var i = 0; i <numberOfAnimalButtons; i++) {
             case "Mark":
                 var mark = new Audio ("music/mark.mp3");
                 mark.play();
+                break;
             case "Daiben":
                 var daiben = new Audio ("music/daiben.mp3");
                 daiben.play();

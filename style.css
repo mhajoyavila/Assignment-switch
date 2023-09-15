@@ -53,8 +53,8 @@ body {
     background: transparent;
     height: 350px;
     max-width: 800px;
-    border: none;
-    color: transparent;
+    border: none; 
+    color: transparent; 
     cursor: pointer;
    }
    p{
