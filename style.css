@@ -16,29 +16,29 @@ body {
     color: #DBEDF3;
     font-family: sans-serif;
    }
-   .fahb{
+   .f{
     width: 80px;
    }
-   .hugh{
+   .h{
     width: 60px;
    }
-   .ian{
+   .i{
     width: 90px;
    }
-   .ben{
+   .b{
     width: 90px;
    }
-   .pete{
+   .p{
     width: 90px;
    }
-   .mark{
+   .m{
     width: 95px;
 
    }
-   .daiben{
+   .d{
     width: 80px;
    }
-   .sam{
+   .s{
     width: 80px;
 
    }
@@ -62,3 +62,7 @@ body {
     font-weight: bolder;
     color: #4a3a3f;
    }
+   .pressed {
+    box-shadow: 0 3px 4px 0 #010a0d;
+    opacity: 0.5;
+  }
