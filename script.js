@@ -59,6 +59,6 @@ for (var i = 0; i <numberOfMachinaButtons; i++) {
         activeButton.classList.add("pressed");
         setTimeout(function() {
         activeButton.classList.remove("pressed");
-        }, 100);
+        }, 5000);
     }
 
